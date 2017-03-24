@@ -1,0 +1,16 @@
+/home/ruslan/Ruslan/Java/JavaProjects/security (3)/src/main/java/com/com/model/Role.java
+/home/ruslan/Ruslan/Java/JavaProjects/security (3)/src/main/java/com/com/services/IncedentServiceImpl.java
+/home/ruslan/Ruslan/Java/JavaProjects/security (3)/src/main/java/com/com/validator/UserValidator.java
+/home/ruslan/Ruslan/Java/JavaProjects/security (3)/src/main/java/com/com/model/Photo.java
+/home/ruslan/Ruslan/Java/JavaProjects/security (3)/src/main/java/com/com/controller/UserController.java
+/home/ruslan/Ruslan/Java/JavaProjects/security (3)/src/main/java/com/com/repository/IncedentRepository.java
+/home/ruslan/Ruslan/Java/JavaProjects/security (3)/src/main/java/com/com/services/IncedentService.java
+/home/ruslan/Ruslan/Java/JavaProjects/security (3)/src/main/java/com/com/repository/RoleRepository.java
+/home/ruslan/Ruslan/Java/JavaProjects/security (3)/src/main/java/com/com/repository/UserRepository.java
+/home/ruslan/Ruslan/Java/JavaProjects/security (3)/src/main/java/com/com/services/UserServiceImpl.java
+/home/ruslan/Ruslan/Java/JavaProjects/security (3)/src/main/java/com/com/model/User.java
+/home/ruslan/Ruslan/Java/JavaProjects/security (3)/src/main/java/com/com/services/SecurityServiceImpl.java
+/home/ruslan/Ruslan/Java/JavaProjects/security (3)/src/main/java/com/com/services/UserService.java
+/home/ruslan/Ruslan/Java/JavaProjects/security (3)/src/main/java/com/com/services/UserDetailsServiceImpl.java
+/home/ruslan/Ruslan/Java/JavaProjects/security (3)/src/main/java/com/com/services/SecurityService.java
+/home/ruslan/Ruslan/Java/JavaProjects/security (3)/src/main/java/com/com/model/Incedent.java

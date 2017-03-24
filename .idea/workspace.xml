@@ -2,41 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="20badb66-708f-4bc0-b46a-af0b2045cb62" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system.properties" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_dbcp_8_5_12.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_juli_8_5_12.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/java/com/com/controller/UserController.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/java/com/com/model/Incedent.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/java/com/com/model/Photo.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/java/com/com/model/Role.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/java/com/com/model/User.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/java/com/com/repository/IncedentRepository.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/java/com/com/repository/RoleRepository.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/java/com/com/repository/UserRepository.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/java/com/com/services/IncedentService.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/java/com/com/services/IncedentServiceImpl.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/java/com/com/services/SecurityService.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/java/com/com/services/SecurityServiceImpl.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/java/com/com/services/UserDetailsServiceImpl.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/java/com/com/services/UserService.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/java/com/com/services/UserServiceImpl.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/java/com/com/validator/UserValidator.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/dependency/tomcat-dbcp-8.5.12.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/dependency/tomcat-juli-8.5.12.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/security-1.0-SNAPSHOT/META-INF/MANIFEST.MF" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/security-1.0-SNAPSHOT/META-INF/maven/com.com/security/pom.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/security-1.0-SNAPSHOT/META-INF/maven/com.com/security/pom.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/security-1.0-SNAPSHOT/WEB-INF/lib/tomcat-dbcp-8.5.12.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/security-1.0-SNAPSHOT/WEB-INF/lib/tomcat-juli-8.5.12.jar" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/com/controller/UserController.class" afterPath="$PROJECT_DIR$/target/classes/com/com/controller/UserController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/com/services/IncedentServiceImpl.class" afterPath="$PROJECT_DIR$/target/classes/com/com/services/IncedentServiceImpl.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/security-1.0-SNAPSHOT.war" afterPath="$PROJECT_DIR$/target/security-1.0-SNAPSHOT.war" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/security-1.0-SNAPSHOT/WEB-INF/classes/com/com/controller/UserController.class" afterPath="$PROJECT_DIR$/target/security-1.0-SNAPSHOT/WEB-INF/classes/com/com/controller/UserController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/security-1.0-SNAPSHOT/WEB-INF/classes/com/com/services/IncedentServiceImpl.class" afterPath="$PROJECT_DIR$/target/security-1.0-SNAPSHOT/WEB-INF/classes/com/com/services/IncedentServiceImpl.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/security_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/security_war_exploded.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/security.iml" afterPath="$PROJECT_DIR$/security.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -74,28 +40,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="IncedentServiceImpl.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/com/services/IncedentServiceImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="15" column="34" lean-forward="false" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
-              <folding>
-                <element signature="imports" expanded="false" />
-                <element signature="e#547#548#0" expanded="false" />
-                <element signature="e#615#616#0" expanded="false" />
-                <element signature="e#1606#1607#0" expanded="false" />
-                <element signature="e#1660#1661#0" expanded="false" />
-                <element signature="e#1733#1734#0" expanded="false" />
-                <element signature="e#1797#1798#0" expanded="false" />
-                <element signature="e#1853#1854#0" expanded="false" />
-                <element signature="e#1910#1911#0" expanded="false" />
-                <element signature="e#1959#1960#0" expanded="false" />
-                <element signature="e#2004#2005#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="UserDetailsServiceImpl.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/com/services/UserDetailsServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -168,7 +112,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="appconfig-data.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="appconfig-data.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/appconfig-data.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="522">
@@ -178,11 +122,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="web.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <file leaf-file-name="vcs.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="555">
-              <caret line="37" column="21" lean-forward="false" selection-start-line="37" selection-start-column="21" selection-end-line="37" selection-end-column="21" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="misc.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -325,11 +279,83 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="target" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="security (3)" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="security (3)" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="target" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="classes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="security (3)" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="security (3)" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="target" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="classes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="security (3)" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="security (3)" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="security (3)" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="security (3)" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value=".idea" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -856,12 +882,20 @@
       <workItem from="1490247927548" duration="629000" />
       <workItem from="1490277818066" duration="104000" />
       <workItem from="1490277934783" duration="3672000" />
-      <workItem from="1490352873266" duration="17581000" />
+      <workItem from="1490352873266" duration="17825000" />
     </task>
+    <task id="LOCAL-00001" summary="new commit">
+      <created>1490390039021</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1490390039021</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="137848000" />
+    <option name="totallyTimeSpent" value="138092000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1855" height="1056" extended-state="6" />
@@ -909,6 +943,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="new commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="new commit" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <option name="time" value="1" />
@@ -920,20 +958,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/com/services/SecurityServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="23" column="14" lean-forward="false" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/com/services/SecurityService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="53" lean-forward="false" selection-start-line="9" selection-start-column="53" selection-end-line="9" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/java/com/com/services/IncedentDaoImpl.java" />
     <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/js/event_properties.js">
       <provider selected="true" editor-type-id="text-editor">
@@ -1286,6 +1310,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="522">
           <caret line="50" column="57" lean-forward="false" selection-start-line="50" selection-start-column="57" selection-end-line="50" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
