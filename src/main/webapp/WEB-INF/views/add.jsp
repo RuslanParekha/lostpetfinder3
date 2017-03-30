@@ -81,7 +81,7 @@
             <h4>Please add brief description.   All info may be useful </h4>
             <textarea name="description" cols="140" rows="5" required ></textarea>
 
-            <h4>Please download photo </h4><input type="file" name="photo" >
+            <h4>Please download photo (because of free database image size limit is 200Kb) </h4><input type="file" name="photo" >
             <h4>Chose location on a map by one time click </h4><div id="map"></div>
             <input type="hidden" name="ownerId" value="${pageContext.request.userPrincipal.name}"/>
             <input type="submit" class="btn btn-primary" value="Submit" align="center">
