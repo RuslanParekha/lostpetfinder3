@@ -58,7 +58,7 @@
     </div>
 </nav>
 <div class="container">
-        <form id="incedentForm" role="form" enctype="multipart/form-data" class="form-horizontal" action="${contextPath}/add" accept-charset="utf-8" method="post">
+        <form id="incedentForm" role="form" enctype="multipart/form-data" accept-charset="utf-8"  class="form-horizontal" action="${contextPath}/add" method="post">
             <div class="form-group"><h3>Please fill all the fields</h3></div>
             <h4>Please chose have you Lost or Found a pet
             <select name="caseType" size="1">
