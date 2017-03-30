@@ -22,7 +22,7 @@
     </bean>
 
     <bean id="dataSource" class="org.apache.commons.dbcp.BasicDataSource">
-        <property name="url" value="#{ 'jdbc:mysql://' + @dbUrl.getHost() + @dbUrl.getPath() + ?useEncoding=true&amp;characterEncoding=UTF-8 }"/>
+        <property name="url" value="#{ 'jdbc:mysql://' + @dbUrl.getHost() + @dbUrl.getPath() + '?characterEncoding=UTF-8' }"/>
         <property name="username" value="#{ @dbUrl.getUserInfo().split(':')[0] }"/>
         <property name="password" value="#{ @dbUrl.getUserInfo().split(':')[1] }"/>
     </bean>
