@@ -81,7 +81,7 @@
             <h4>Please add brief description.   All info may be useful </h4>
             <textarea name="description" cols="140" rows="5" required ></textarea>
 
-            <h4>Please download photo </h4><input type="file" name="photo">
+            <h4>Please download photo </h4><input type="file" name="photo" onChange="imgLoad()">
             <h4>Chose location on a map by one time click </h4><div id="map"></div>
             <input type="hidden" name="ownerId" value="${pageContext.request.userPrincipal.name}"/>
             <input type="submit" class="btn btn-primary" value="Submit" align="center">
@@ -92,6 +92,7 @@
 <script src="${contextPath}/resources/js/event_properties.js"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
 <script src="${contextPath}/resources/js/bootstrap.min.js"></script>
+<script src="${contextPath}/resources/js/limit_file_size.js"></script>
 <link href="${contextPath}/resources/css/bootstrap.min.css" rel="stylesheet">
 <script src="http://cdn.jsdelivr.net/webshim/1.12.4/extras/modernizr-custom.js"></script>
 <!-- polyfiller file to detect and load polyfills -->
