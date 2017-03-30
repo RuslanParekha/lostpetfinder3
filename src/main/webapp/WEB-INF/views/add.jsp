@@ -92,7 +92,7 @@
 <script src="${contextPath}/resources/js/event_properties.js"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
 <script src="${contextPath}/resources/js/bootstrap.min.js"></script>
-<script src="${contextPath}/resources/js/limit_file_size.js"></script>
+
 <link href="${contextPath}/resources/css/bootstrap.min.css" rel="stylesheet">
 <script src="http://cdn.jsdelivr.net/webshim/1.12.4/extras/modernizr-custom.js"></script>
 <!-- polyfiller file to detect and load polyfills -->
