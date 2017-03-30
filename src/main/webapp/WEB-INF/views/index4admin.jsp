@@ -88,7 +88,7 @@
                 <td><a href="/show?id=${incedent.id}">${incedent.description}</a></td>
                 <td>${incedent.latitude}</td>
                 <td>${incedent.longitude}</td>
-                <td><a href="/delete?id=${incedent.id}">Send email</a></td>
+                <td><a href="/delete?id=${incedent.id}">Delete</a></td>
 
             </tr>
         </c:forEach>
