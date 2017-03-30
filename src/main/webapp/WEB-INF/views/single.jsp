@@ -59,7 +59,7 @@
                 <td><b>Action</b></td>
             </tr>
                 <tr>
-                    <td><img height="200" src="/image/${incedent.photo.id}" /></td>
+                    <td><img height="400" src="/image/${incedent.photo.id}" /></td>
                     <td>${incedent.date}</td>
                     <td>${incedent.description}</td>
                     <td><a href="mailto:${incedent.ownerId}">Send email</a></td>
