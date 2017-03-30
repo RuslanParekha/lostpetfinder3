@@ -47,18 +47,7 @@
     </div>
 </nav>
 
-<div class="img-responsive" align="center" >
-    <img height="50%" src="${contextPath}/resources/img/cats_dogs.jpg">
-</div>
-<div class="container">
-    <h1>Hello</h1>
-    <p align="justify">
-        Our goal is to connect pet owners with people who may found their animals. To start please click on a button "Add My Case",
-        please sign in or register and fill the info. Once done you will be transfered to result page showing all relevant cases.
-        I believe that together we will find your pet.
-    </p>
-    <p align="center"><a class="btn btn-primary btn-md" href="/add" role="button">Add my case &raquo;</a></p>
-</div>
+
 <div class="container">
     <h3>Incedents List</h3>
     <table class="table table-striped">
