@@ -66,9 +66,6 @@
                 </tr>
         </table>
 
-        <form class="form-inline" role="form" action="/add" method="get">
-            <input type="submit" class="btn btn-default" value="Add new">
-        </form>
     </div>
 
 </div>
