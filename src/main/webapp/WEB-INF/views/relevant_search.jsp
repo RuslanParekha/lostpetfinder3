@@ -71,9 +71,7 @@
         </c:forEach>
     </table>
 
-    <form class="form-inline" role="form" action="/add" method="get">
-        <input type="submit" class="btn btn-default" value="Add new">
-    </form>
+
 </div>
 
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
